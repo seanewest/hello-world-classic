@@ -1,5 +1,5 @@
 #hello-world-classic
-An [npm](https://www.npmjs.org) module that prints the classic [1972](http://en.wikipedia.org/wiki/Hello_world_program#History) version of 'hello, world'
+An [npm](https://www.npmjs.org) module that prints the classic [1974](http://en.wikipedia.org/wiki/Hello_world_program#History) version of 'hello, world'
 
 Here is the entire code:
 ```js
