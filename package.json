@@ -1,7 +1,7 @@
 {
   "name": "hello-world-classic",
-  "version": "0.0.0",
-  "description": "Just a method that does this: console.log('hello, world')",
+  "version": "0.0.1",
+  "description": "Just a method that prints 'hello, world'",
   "repository": {
     "type": "git",
     "url": "git://github.com/seanewest/hello-world-classic"
