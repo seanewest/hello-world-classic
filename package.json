@@ -1,0 +1,17 @@
+{
+  "name": "hello-world-classic",
+  "version": "0.0.0",
+  "description": "Just a method that does this: console.log('hello, world')",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/seanewest/hello-world-classic"
+  },
+  "homepage": "https://github.com/seanewest/hello-world-classic",
+  "keywords": [
+    "hello",
+    "world"
+  ],
+  "main": "index.js",
+  "author": "Sean West",
+  "license": "MIT"
+}
